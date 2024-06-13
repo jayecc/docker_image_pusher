@@ -1,6 +1,7 @@
 nginx
 alpine
 mysql
+mysql:5.7
 redis
 golang:1.22-alpine
 golang:1.19-alpine
