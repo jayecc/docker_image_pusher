@@ -2,6 +2,9 @@ nginx
 alpine
 mysql
 redis
+golang:1.22-alpine
+golang:1.19-alpine
+golang:1.16-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
