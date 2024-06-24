@@ -8,7 +8,7 @@ golang:1.19-alpine
 golang:1.16-alpine
 mongo:6
 mongo:7
-mongo:8
+mongo
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
