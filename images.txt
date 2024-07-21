@@ -9,12 +9,13 @@
 # mongo:6
 # mongo:7
 # mongo
-mariadb
-postgres
-traefik
-nsqio/nsq
-jenkins/jenkins
-nacos/nacos-server
+# mariadb
+# postgres
+# traefik
+# nsqio/nsq
+# jenkins/jenkins
+# nacos/nacos-server
+oracleinanutshell/oracle-xe-11g
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
