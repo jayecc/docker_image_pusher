@@ -6,6 +6,7 @@
 # golang:1.22-alpine
 # golang:1.19-alpine
 # golang:1.16-alpine
+golang:1.22
 # mongo:6
 # mongo:7
 # mongo
@@ -15,7 +16,7 @@
 # nsqio/nsq
 # jenkins/jenkins
 # nacos/nacos-server
-oracleinanutshell/oracle-xe-11g
+# oracleinanutshell/oracle-xe-11g
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
