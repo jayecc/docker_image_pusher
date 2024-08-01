@@ -17,7 +17,8 @@
 # jenkins/jenkins
 # nacos/nacos-server
 # oracleinanutshell/oracle-xe-11g
-asg1612/alpine-oracle-instantclient
+# asg1612/alpine-oracle-instantclient
+ghcr.io/oracle/oraclelinux7-instantclient:21
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
