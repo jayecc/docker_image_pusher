@@ -7,4 +7,5 @@
 
 #quay.io/coreos/etcd:v3.5.0
 #oraclelinux:7-slim
-redis:latest
+#redis:latest
+debian:stable-slim
