@@ -8,4 +8,5 @@
 #quay.io/coreos/etcd:v3.5.0
 #oraclelinux:7-slim
 #redis:latest
-debian:stable-slim
+#debian:stable-slim
+golang:1.24-alpine
