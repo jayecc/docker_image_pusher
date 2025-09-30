@@ -9,4 +9,5 @@
 #oraclelinux:7-slim
 #redis:latest
 #debian:stable-slim
-golang:1.24-alpine
+#golang:1.24-alpine
+postgres:alpine
