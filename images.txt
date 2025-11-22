@@ -10,4 +10,5 @@
 #redis:latest
 #debian:stable-slim
 #golang:1.24-alpine
-postgres:alpine
+#postgres:alpine
+golang:1.25-alpine
