@@ -11,4 +11,5 @@
 #debian:stable-slim
 #golang:1.24-alpine
 #postgres:alpine
-golang:1.25-alpine
+#golang:1.25-alpine
+oracle/database:11.2.0.2-xe
