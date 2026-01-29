@@ -14,4 +14,5 @@
 #golang:1.25-alpine
 #oracle/database:11.2.0.2-xe
 #wnameless/oracle-xe-11g-r2
-rancher/rancher
+#rancher/rancher
+k8s.gcr.io/ingress-nginx/controller:v0.41.2
