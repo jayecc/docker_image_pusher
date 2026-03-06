@@ -16,5 +16,5 @@
 #wnameless/oracle-xe-11g-r2
 #rancher/rancher
 #k8s.gcr.io/ingress-nginx/controller:v0.41.2
-enwaaya/x-ui:latest
+#enwaaya/x-ui:latest
 ghcr.io/franzkafyu/x-ui:latest
